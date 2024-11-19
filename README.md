@@ -7,3 +7,4 @@
 # git config --global "sandhyajaiswal2005@gmail.com"
 # git config --list
 # git status
+# git
