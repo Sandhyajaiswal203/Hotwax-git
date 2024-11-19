@@ -11,3 +11,4 @@
 # git commit -m "new change in git1.txt"   : Used to save  changes
 # git add readme.md
 # git commit -m "change"
+# git log                     : Gives history of files(last commit history)
